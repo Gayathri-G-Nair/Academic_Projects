@@ -22,11 +22,11 @@ python 3.6+
 
 ## Setup
 Using pip: 
-pip install http://download.pytorch.org/whl/cpu/torch-1.0.0-cp36-cp36m-linux_x86_64.whl
-pip install fastai
+* pip install http://download.pytorch.org/whl/cpu/torch-1.0.0-cp36-cp36m-linux_x86_64.whl
+* pip install fastai
 
 ## Inspiration
 This project is inspired from Analytics Vidhya Tutorial. 
 
 ## Contact
-Created by [@Gayathri-G-Nair](ErGayathriNair@gmail.com) - feel free to contact me!
+Created by [@Gayathri-G-Nair] ErGayathriNair@gmail.com - feel free to contact me!
